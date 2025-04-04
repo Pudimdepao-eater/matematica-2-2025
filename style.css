@@ -1,10 +1,11 @@
 .text{
     text-align: center;
     color:rgb(0, 98, 183);
-    font-size: 2px;
+    font-size: 2rem;
 }
 body{
     text-align: center;
     color:rgb(0, 98, 183);
     font-size: 2rem;
+    background-color: black;
 }
