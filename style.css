@@ -5,6 +5,7 @@ body{
     background: #000000;
     border: 7cm;
     border-color: aliceblue;
+    border-bottom-left-radius: 7cm;
 }
 #paulinho{
 
